@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/MLFlow-Manage-ML-Experiments/mlruns/203626207621587341/e818e6a7ce924bc2a8b1c7f60c86b0b6/artifacts
+end_time: 1710434151667
+entry_point_name: ''
+experiment_id: '203626207621587341'
+lifecycle_stage: active
+run_id: e818e6a7ce924bc2a8b1c7f60c86b0b6
+run_name: bald-carp-336
+run_uuid: e818e6a7ce924bc2a8b1c7f60c86b0b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710434149200
+status: 3
+tags: []
+user_id: user

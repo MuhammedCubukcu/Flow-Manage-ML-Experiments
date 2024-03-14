@@ -1,0 +1,16 @@
+artifact_uri: file:///home/user/Desktop/MLFlow-Manage-ML-Experiments/mlruns/283121019504243861/77e6b3e4c93848e4af76b926cde1e778/artifacts
+deleted_time: 1710430850315
+end_time: 1710424574072
+entry_point_name: ''
+experiment_id: '283121019504243861'
+lifecycle_stage: deleted
+run_id: 77e6b3e4c93848e4af76b926cde1e778
+run_name: honorable-carp-513
+run_uuid: 77e6b3e4c93848e4af76b926cde1e778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710424574063
+status: 3
+tags: []
+user_id: user

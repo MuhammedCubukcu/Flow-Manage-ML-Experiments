@@ -1,0 +1,6 @@
+artifact_location: file:///home/user/Desktop/MLFlow-Manage-ML-Experiments/mlruns/203626207621587341
+creation_time: 1710434149075
+experiment_id: '203626207621587341'
+last_update_time: 1710434149075
+lifecycle_stage: active
+name: ML-Model-1

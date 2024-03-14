@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/MLFlow-Manage-ML-Experiments/mlruns/230912715201578839/e8b49522f15f4ba5af058f92674d446c/artifacts
+end_time: 1710430655845
+entry_point_name: ''
+experiment_id: '230912715201578839'
+lifecycle_stage: active
+run_id: e8b49522f15f4ba5af058f92674d446c
+run_name: bustling-grub-761
+run_uuid: e8b49522f15f4ba5af058f92674d446c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710430655810
+status: 3
+tags: []
+user_id: user
